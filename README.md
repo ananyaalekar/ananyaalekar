@@ -1,6 +1,6 @@
 # Ananya Alekar personal page
 ## Ananya Alekar
-![Ananya](img.jpeg)<hr/>
+
 
 I am **Ananya Alekar**. I hail from **Mumbai, Maharashtra**.</br>Currently, I am pursuing my **B.Tech degree** in **Computer Science** from Indian Institute of Technology.<br>I spend my free time **watching movies, painting and clicking pictures**.
 <hr/>
